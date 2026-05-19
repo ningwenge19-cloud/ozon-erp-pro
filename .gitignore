@@ -1,5 +1,0 @@
-.venv/
-__pycache__/
-*.pyc
-backend/ozon_erp.db
-.env
